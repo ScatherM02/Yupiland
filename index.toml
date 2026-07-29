@@ -6,6 +6,11 @@ hash = "30b664ff69f4dd118898c32b759478d52a410f68a2857679d2c7a5257d5504e0"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
+metafile = true
+
+[[files]]
 file = "mods/better-dogs-x-doggy-talents-next.pw.toml"
 hash = "108643e45dc14056b6063ff97a379f5fc18447d5c330f267ddf8c7aae1923b3c"
 metafile = true

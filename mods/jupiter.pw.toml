@@ -1,0 +1,13 @@
+name = "Jupiter"
+filename = "jupiter-2.3.7-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d3ef13a5260eee80f718ace244f261659d15656f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7738297
+project-id = 1072905

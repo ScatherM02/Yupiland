@@ -1,0 +1,13 @@
+name = "Dragon Mounts: SoW Edition"
+filename = "DragonMountsSoWEdition-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b74a5b02e44c835142397f5c10b7d9e9a92f156"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6551885
+project-id = 1125194

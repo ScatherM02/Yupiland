@@ -1,0 +1,13 @@
+name = "DePhoegons' Chocobos"
+filename = "delchoco-fabric-3.4.3-1.20_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0096214eb0ea0fb8ee3581233d49ae17d5cd6d5c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4995148
+project-id = 649500

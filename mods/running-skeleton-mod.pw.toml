@@ -1,0 +1,13 @@
+name = "One in 2000 Chance for a Skeleton to Run Across Your Screen"
+filename = "runningskeleton-fabric-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3eeb5d738671e1969d4adb560125db91c25aac19"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8355146
+project-id = 1584553

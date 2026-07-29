@@ -1,0 +1,13 @@
+name = "DePhoegons' Reclaim"
+filename = "delbase-fabric-1.6.0-1.20_1.20.1-no_patchouli.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9058b1c5fa74e7cf54f7c0ceaa8862084b92c82a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6652988
+project-id = 648173

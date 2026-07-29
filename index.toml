@@ -21,11 +21,6 @@ hash = "295ca06f809353de55cfa1d36296e8f7394f03ab4d7b6f42cd7bd20d69f267e2"
 metafile = true
 
 [[files]]
-file = "mods/c2me.pw.toml"
-hash = "2bd0d3d8adefb389b3dab3e83de30665415ed2bb8101977e4ec1d4dea859ef9b"
-metafile = true
-
-[[files]]
 file = "mods/citadel-fabric.pw.toml"
 hash = "67677a6d3397c44f6e59eda6061ee950fce9feb5a2eb89c3a7e527d478fd773c"
 metafile = true

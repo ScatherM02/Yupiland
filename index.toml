@@ -36,11 +36,6 @@ hash = "75e935b63073ad2104c50baead0898b07ff60c0f465adf796f4a4960db8eae09"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "62d685e001957b2f677675df77e3d96be4ba9ce28cd19b286dc7b386a5b472b0"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "356a264757b1b5d0eda01c8c09ec7dd40062e93003d1e5ee027d3215eef2e0ce"
 metafile = true

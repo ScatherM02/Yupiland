@@ -186,6 +186,16 @@ hash = "356a264757b1b5d0eda01c8c09ec7dd40062e93003d1e5ee027d3215eef2e0ce"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-unofficial-fabric-port.pw.toml"
+hash = "8413f8332489d4ebb72ed07b573b3df7c3fea4db4bcda9c2758f1995924bae9e"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-unofficial-fabric-port.pw.toml"
+hash = "bf918ba9bd46abccb2e6908fde3bc77453b52a1834e42b1d07e848875f975802"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "d8fea7b65f0e5ce3e77bdc748bb114439859956ab74b7b0a10ec5286b5da4889"
 metafile = true

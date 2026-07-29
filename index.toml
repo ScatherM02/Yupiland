@@ -6,6 +6,11 @@ hash = "30b664ff69f4dd118898c32b759478d52a410f68a2857679d2c7a5257d5504e0"
 metafile = true
 
 [[files]]
+file = "mods/c2me.pw.toml"
+hash = "2bd0d3d8adefb389b3dab3e83de30665415ed2bb8101977e4ec1d4dea859ef9b"
+metafile = true
+
+[[files]]
 file = "mods/citadel-fabric.pw.toml"
 hash = "67677a6d3397c44f6e59eda6061ee950fce9feb5a2eb89c3a7e527d478fd773c"
 metafile = true
@@ -13,6 +18,21 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "0488c9ea9abac1f21fc3b1911f97de3c375083985c89b332136fe9c948c06b8e"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "ef5b1cad2960cf1711194d1ff50b9da616ae3b157c081e8b56af0c8b17e9946b"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "75e935b63073ad2104c50baead0898b07ff60c0f465adf796f4a4960db8eae09"
 metafile = true
 
 [[files]]

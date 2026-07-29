@@ -66,8 +66,13 @@ hash = "be011cd87407f80feff4d48b0b98dd8ba97b43ade2db4b52b62e5a4365a7fb1a"
 metafile = true
 
 [[files]]
+file = "mods/endrem.pw.toml"
+hash = "34a07ff5c170cd95eb586e3e40e65636eb4bbf283c24762055db6094b91de494"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0488c9ea9abac1f21fc3b1911f97de3c375083985c89b332136fe9c948c06b8e"
+hash = "5cbcd9395c1788ed7a1356e392a4483a30d903312faffd9795c6dee9afba3fac"
 metafile = true
 
 [[files]]
@@ -138,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
 hash = "391abb25c362fbb628f84a4da7b419abecb5994b217aa226269ebb9f994738b3"
+metafile = true
+
+[[files]]
+file = "mods/ore-vein-miner.pw.toml"
+hash = "ee9db4de5bb39adcf88df15e25a4d78a6aad2d366bfde0d58de1b9b3fea406ac"
 metafile = true
 
 [[files]]
@@ -213,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "00a0cba74675174812eea16aca533adfe9bac7b30a81a7e33dd81bd9343b45c4"
+metafile = true
+
+[[files]]
+file = "mods/tree-vein-miner.pw.toml"
+hash = "72bd122cb4dfd718ad09e1b5fdf6ca7b49095c16bf24a8da69aad64fe6aeefe4"
 metafile = true
 
 [[files]]

@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/ore-vein-miner.pw.toml"
-hash = "ee9db4de5bb39adcf88df15e25a4d78a6aad2d366bfde0d58de1b9b3fea406ac"
+hash = "9bd19e9d7c1b8498318547fea4c42cf2dfc29e92c3f33b8ae6b23b875008bfca"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-vein-miner.pw.toml"
-hash = "72bd122cb4dfd718ad09e1b5fdf6ca7b49095c16bf24a8da69aad64fe6aeefe4"
+hash = "dcf760b5f9646fa4d03cf6d36522beccad120e1ed26e94794a39c3b9109fe950"
 metafile = true
 
 [[files]]

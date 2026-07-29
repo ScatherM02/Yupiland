@@ -1,13 +1,13 @@
 name = "Tree Vein Miner"
-filename = "TreeVeinMiner (legacy).zip"
+filename = "tree-vein-miner-1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b593911bd9a4162c5a69cb8e5d12748f865c37ac"
+hash = "b2a7c0bb16a8f5df0f6d50c7ce66687ecdde287e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7676019
-project-id = 1471470
+file-id = 7332722
+project-id = 1356258

@@ -31,6 +31,11 @@ hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "dfb3791da12798522449390e0bd4199ee47ee682c10e37dffa534713decd9913"
+metafile = true
+
+[[files]]
 file = "mods/create-food.pw.toml"
 hash = "f29fc01e41186706bb458381b5e1a77551a77736c8dd92150bd9f6f30540d817"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "754b65581daa4a2d8462d5e62b43555a85a2f24106e8662925a1adefcc9f07cf"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "d5ef3b8c25e25ecd94336ebd124a524f06216953daaf1150a7ad1bc9d7847651"
 metafile = true
 
 [[files]]

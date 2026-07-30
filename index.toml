@@ -51,16 +51,6 @@ hash = "d5ef3b8c25e25ecd94336ebd124a524f06216953daaf1150a7ad1bc9d7847651"
 metafile = true
 
 [[files]]
-file = "mods/dephoegons-chocobos.pw.toml"
-hash = "39361f65699784599e679c96ec5a2a83a42fa92204a799a205e8fd587eedb6ef"
-metafile = true
-
-[[files]]
-file = "mods/dephoegons-reclaim.pw.toml"
-hash = "3a9f914f8a1f0c92aa53c0cc85d4b9f98c1438b3997d7090d268781b9495de76"
-metafile = true
-
-[[files]]
 file = "mods/doggy-talents-next.pw.toml"
 hash = "dc1bcfb68585afbfa216eaeb3e8426ed274a9fba442fc15df2fec02f5bf4ed54"
 metafile = true

@@ -86,6 +86,11 @@ hash = "0488c9ea9abac1f21fc3b1911f97de3c375083985c89b332136fe9c948c06b8e"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "704a42a40185a75cf00b255e8935df11d0311fd9a5506b1c2a1b4ddd03b5919a"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "73aabc623c49fc56d766bcd927f243200cd217f83b59745da0f70bf663a545d5"
 metafile = true
@@ -126,11 +131,6 @@ hash = "4d126f78c43ca759abfae9b23bfa1cc24a05aaea89923007ad7382f128417b57"
 metafile = true
 
 [[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "bc64bb0f72acc944a8f6fd48e6147c698efd0456d6c63c27847bcaa896addd84"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "f8f9110054ac63debff87615f6b4a318b64536f472e427a11c59309948bc82de"
 metafile = true
@@ -151,6 +151,11 @@ hash = "ef5b1cad2960cf1711194d1ff50b9da616ae3b157c081e8b56af0c8b17e9946b"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "2a51e8d75220758ec7e69b4262c7010a0476bc01572206b69bf8e2cfde8ca2b1"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "75e935b63073ad2104c50baead0898b07ff60c0f465adf796f4a4960db8eae09"
 metafile = true
@@ -158,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
 hash = "391abb25c362fbb628f84a4da7b419abecb5994b217aa226269ebb9f994738b3"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "150b043e030da14e99ea5805c5497fe5af3981fc52d22fa1f53e4d0583449ba5"
 metafile = true
 
 [[files]]
@@ -216,11 +226,6 @@ hash = "e1bdd79c888029b8c0c79576e63a7ca00f293b6365f53a42b1ec08432c4cad9b"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "356a264757b1b5d0eda01c8c09ec7dd40062e93003d1e5ee027d3215eef2e0ce"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-backpacks-unofficial-fabric-port.pw.toml"
 hash = "8413f8332489d4ebb72ed07b573b3df7c3fea4db4bcda9c2758f1995924bae9e"
 metafile = true
@@ -271,6 +276,11 @@ hash = "46b8966161136f6bd7f4d3ba59f8ed0ddf45fb83816c09098b0efdde333a5887"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "eac5d5405a7020336980c31c15aab41e0a8fd6881f53deca8ad07c247e968206"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api-fabric.pw.toml"
 hash = "238ac28ffc1a311a782fa569021f3cfc93c2d5ed7773b3273fdef736b80d9fb3"
 metafile = true
@@ -293,4 +303,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-ocean-monuments-fabric.pw.toml"
 hash = "42b17d95baef2a67c36a91d3cbdef1a7a0858852792a8fd9b67b1c5ca6960658"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "691e090328215d2bc82667316431287a0a888e09133c0f8e3ad8b2152cceb530"
 metafile = true

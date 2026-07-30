@@ -1,0 +1,13 @@
+name = "Pet Shop"
+filename = "petshop-fabric-1.20.1-0.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "68339e5995a0be8b66a1f6607ab770144fc45e2b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7563668
+project-id = 958623

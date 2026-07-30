@@ -1,0 +1,13 @@
+name = "Chiikawa"
+filename = "chiikawa-fabric-1.20.1-0.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1df3207b864e5e5cd9f20cad2155c5e14583b269"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8442874
+project-id = 1106419

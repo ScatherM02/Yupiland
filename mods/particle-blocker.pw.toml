@@ -1,0 +1,13 @@
+name = "Particle Blocker"
+filename = "particle-blocker.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af2cc04d7345d19491c130e6f95e0ba6e7adda64"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4655162
+project-id = 593568

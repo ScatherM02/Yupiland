@@ -1,0 +1,13 @@
+name = "Spectater"
+filename = "spectater-2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c4fedfd86251c8844742fa571908e87b0de0bcf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4641128
+project-id = 443638

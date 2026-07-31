@@ -1,0 +1,13 @@
+name = "Ease Out Night Vision"
+filename = "ease-out-night-vision-0.2-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cbbea7dd0f85f0e9ba3ec70f6e64ed3030e7529b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5718059
+project-id = 703882

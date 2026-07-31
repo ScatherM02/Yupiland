@@ -1,0 +1,13 @@
+name = "Translucency Fix"
+filename = "translucencyfix-2.2.0-fabric-quilt.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0580970cd00d19d64bb2481a2a4679a9cca88ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5082023
+project-id = 509414

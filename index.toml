@@ -31,6 +31,11 @@ hash = "108643e45dc14056b6063ff97a379f5fc18447d5c330f267ddf8c7aae1923b3c"
 metafile = true
 
 [[files]]
+file = "mods/better-pickaxe-trims.pw.toml"
+hash = "b1e2a7282dcbe529b8d0da5e3a3c9a5aeccde4488064329c4829061fc2164dc5"
+metafile = true
+
+[[files]]
 file = "mods/bewitchment.pw.toml"
 hash = "295ca06f809353de55cfa1d36296e8f7394f03ab4d7b6f42cd7bd20d69f267e2"
 metafile = true
@@ -71,6 +76,11 @@ hash = "e00fc109714e08b5ec2f5d74574eab80c9df8090d33e0d2fdeeeeb93df0c09b1"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "bba3705506df4b1ed7456b3cc211a3c6b61ab571c95dc11a579e2ff49d1eb40b"
+metafile = true
+
+[[files]]
 file = "mods/common-network.pw.toml"
 hash = "a6b011753f32cc967f07ad77468e3608a454acd50613b69cc1af73b7a656b7e8"
 metafile = true
@@ -93,11 +103,6 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "754b65581daa4a2d8462d5e62b43555a85a2f24106e8662925a1adefcc9f07cf"
-metafile = true
-
-[[files]]
-file = "mods/cull-less-leaves.pw.toml"
-hash = "ad1ee78be7479032b482ee2c4e5cc5ebb0d5f74dd2a498108a41b6b74bcd1858"
 metafile = true
 
 [[files]]
@@ -311,8 +316,8 @@ hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
 metafile = true
 
 [[files]]
-file = "mods/ore-vein-miner.pw.toml"
-hash = "9bd19e9d7c1b8498318547fea4c42cf2dfc29e92c3f33b8ae6b23b875008bfca"
+file = "mods/ore-harvester.pw.toml"
+hash = "d6308a8a013f6e8c129d01acbb906e7c916738bc58e24bfa53ec1a1c05783ae1"
 metafile = true
 
 [[files]]
@@ -486,8 +491,8 @@ hash = "24c9881d779ef02c49eb5a23c8121b2c3fdac94efb7fd923b1dbac716b0a928d"
 metafile = true
 
 [[files]]
-file = "mods/tree-vein-miner.pw.toml"
-hash = "dcf760b5f9646fa4d03cf6d36522beccad120e1ed26e94794a39c3b9109fe950"
+file = "mods/tree-harvester.pw.toml"
+hash = "81616d4497a861461df0ef3bb5dc068ac68b89aeff23c0ca5fcbdf1d3be91bd6"
 metafile = true
 
 [[files]]

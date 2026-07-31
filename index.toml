@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0488c9ea9abac1f21fc3b1911f97de3c375083985c89b332136fe9c948c06b8e"
+hash = "5cbcd9395c1788ed7a1356e392a4483a30d903312faffd9795c6dee9afba3fac"
 metafile = true
 
 [[files]]
@@ -203,6 +203,16 @@ metafile = true
 [[files]]
 file = "mods/pet-shop.pw.toml"
 hash = "d0c20ac541a7a898b093565482a03864c57a62127c4446ba355efe6371e08245"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "a050490e6e461915f15eaa62b1d5f54781103f19d5389752bfd6a521364476b6"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "f98cbc99737dccc988b23ee9525e456f2e89e75c6de310a64859cef46c05853e"
 metafile = true
 
 [[files]]

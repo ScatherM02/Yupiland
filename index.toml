@@ -316,11 +316,6 @@ hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
 metafile = true
 
 [[files]]
-file = "mods/ore-harvester.pw.toml"
-hash = "d6308a8a013f6e8c129d01acbb906e7c916738bc58e24bfa53ec1a1c05783ae1"
-metafile = true
-
-[[files]]
 file = "mods/particle-blocker.pw.toml"
 hash = "7735c20248e8e41665673cbc94597718fdbfe015ccffe0423b7bbf225e8ac25b"
 metafile = true

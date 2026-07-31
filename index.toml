@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-blocker.pw.toml"
-hash = "8d250c0bf52ce6feb7a81247ef6de27f7f135805255e1260b8876303ca24aedf"
+hash = "7735c20248e8e41665673cbc94597718fdbfe015ccffe0423b7bbf225e8ac25b"
 metafile = true
 
 [[files]]

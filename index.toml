@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "b32126bf16f8a91fbac2e753917182eb6b8222b013685a4f73d8d2bad58ade95"
+hash = "565cf08493a30dc03305221307837f49cbe8eb113e454c75f5ec9f93ab8d28ee"
 metafile = true
 
 [[files]]
@@ -366,6 +366,11 @@ hash = "e41890cf352aa48e671a6cb45f4df1280a4a7a72490e42758e7fe3dfbac5b03c"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
+metafile = true
+
+[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "0cd339450fbb74cebddfc4aa9599a98d0bdc9dc0e3a82d9d5456007127f94d2d"
 metafile = true
@@ -401,8 +406,13 @@ hash = "e44316486c859d62cbbcc82d25ba566308b89e737c19d2d0e0afa24fa83a2da3"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "8ad07191dfdea31249b4416a390c1cdf1d4ff1938cf9f8a617f98f7a08c5356c"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
-hash = "356a264757b1b5d0eda01c8c09ec7dd40062e93003d1e5ee027d3215eef2e0ce"
+hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]

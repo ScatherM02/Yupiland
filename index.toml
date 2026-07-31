@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "73aabc623c49fc56d766bcd927f243200cd217f83b59745da0f70bf663a545d5"
+hash = "8f9451cb5943eedfccb4da627e9862b8fb0b588dea8b49bd9bfd25d168e87b4f"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "19d365a753813cd265cade85bdadac14e7d3546b004a8638106f8b8a9e6959c2"
+hash = "8eb800d78e93027f719c140b29b40d12d492101e74fb353a6aae7c4fc68f1b79"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "538ab13e402bfc348429b8b5b9b0e1005ee67fdf1c72186549de9cc5fffcd27e"
+hash = "fe36b8555c3aad7bfd78cd2882d885e8cf67bc0f968d8c5f9e61f9c0a8adfd7d"
 metafile = true
 
 [[files]]

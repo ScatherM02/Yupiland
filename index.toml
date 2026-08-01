@@ -96,6 +96,11 @@ hash = "dfb3791da12798522449390e0bd4199ee47ee682c10e37dffa534713decd9913"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
+metafile = true
+
+[[files]]
 file = "mods/create-food.pw.toml"
 hash = "f29fc01e41186706bb458381b5e1a77551a77736c8dd92150bd9f6f30540d817"
 metafile = true
@@ -313,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
+metafile = true
+
+[[files]]
+file = "mods/ore-harvester.pw.toml"
+hash = "d6308a8a013f6e8c129d01acbb906e7c916738bc58e24bfa53ec1a1c05783ae1"
 metafile = true
 
 [[files]]

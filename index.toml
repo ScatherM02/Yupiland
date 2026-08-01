@@ -56,8 +56,8 @@ hash = "7f1401cdf723c7a9f5f39df1995327f2baae329e14135f5c7e55e2ba46dafd60"
 metafile = true
 
 [[files]]
-file = "mods/carry-cats.pw.toml"
-hash = "d52d011d706c48ceddc5a38b41ddec59abfbf4b190c24313e7f4f3f7ed55acb5"
+file = "mods/carry-cats!.pw.toml"
+hash = "51f0ad3bd42186726a926a09cd0b1691817833b5246a526fa3c2350d5e97d327"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0488c9ea9abac1f21fc3b1911f97de3c375083985c89b332136fe9c948c06b8e"
+hash = "5cbcd9395c1788ed7a1356e392a4483a30d903312faffd9795c6dee9afba3fac"
 metafile = true
 
 [[files]]

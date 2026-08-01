@@ -56,6 +56,11 @@ hash = "7f1401cdf723c7a9f5f39df1995327f2baae329e14135f5c7e55e2ba46dafd60"
 metafile = true
 
 [[files]]
+file = "mods/carry-cats.pw.toml"
+hash = "d52d011d706c48ceddc5a38b41ddec59abfbf4b190c24313e7f4f3f7ed55acb5"
+metafile = true
+
+[[files]]
 file = "mods/chiikawa.pw.toml"
 hash = "5a8226077704ea78a32d557f86678c0d2a0528a639014c59f9e97c86cae2fc64"
 metafile = true
@@ -398,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "a716c1404c8efc8fc3c5dc9301253cb2b606ded2062d601b8e237e2266b7cd81"
+metafile = true
+
+[[files]]
+file = "mods/rounds-custom-paintings.pw.toml"
+hash = "15b246bccba7d2efb832b360dfb11e644af55a64be849ee072016a13ec26459c"
 metafile = true
 
 [[files]]

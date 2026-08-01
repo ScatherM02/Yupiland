@@ -6,6 +6,11 @@ hash = "30b664ff69f4dd118898c32b759478d52a410f68a2857679d2c7a5257d5504e0"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "d0208ae558e5d98b2ee270f45d00b2fa33b425fba49adfe7ff8d63285a7acc1b"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/better-chunk-loading-forge-fabric.pw.toml"
 hash = "26d6e34b2652382611261ed725ec1b56078a23361ff0b67268ecec08667dafc5"
+metafile = true
+
+[[files]]
+file = "mods/better-crossbows.pw.toml"
+hash = "c4f029d18ab340f29bf6604a0bb7470396d47e23047873678c10179ca12d45db"
 metafile = true
 
 [[files]]
@@ -96,11 +106,6 @@ hash = "dfb3791da12798522449390e0bd4199ee47ee682c10e37dffa534713decd9913"
 metafile = true
 
 [[files]]
-file = "mods/create-food.pw.toml"
-hash = "f29fc01e41186706bb458381b5e1a77551a77736c8dd92150bd9f6f30540d817"
-metafile = true
-
-[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "754b65581daa4a2d8462d5e62b43555a85a2f24106e8662925a1adefcc9f07cf"
 metafile = true
@@ -147,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5cbcd9395c1788ed7a1356e392a4483a30d903312faffd9795c6dee9afba3fac"
+hash = "0488c9ea9abac1f21fc3b1911f97de3c375083985c89b332136fe9c948c06b8e"
 metafile = true
 
 [[files]]
@@ -303,6 +308,16 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "66d1b7bc973830475a7bae8a5b823ec42fbc1ed1f4d4c514f1e6a21b20177810"
+metafile = true
+
+[[files]]
+file = "mods/monolib.pw.toml"
+hash = "cab08dbfdb35a984888bab3ab25fd4cd62ab5cc2fa1ce659f699391eafac804e"
+metafile = true
+
+[[files]]
+file = "mods/more-bows-and-arrows.pw.toml"
+hash = "f808843ccc76275130f6b9320a7b06999ee9ba13efa2d0aa42bfe31dd4ba3dd6"
 metafile = true
 
 [[files]]

@@ -411,11 +411,6 @@ hash = "a716c1404c8efc8fc3c5dc9301253cb2b606ded2062d601b8e237e2266b7cd81"
 metafile = true
 
 [[files]]
-file = "mods/rounds-custom-paintings.pw.toml"
-hash = "15b246bccba7d2efb832b360dfb11e644af55a64be849ee072016a13ec26459c"
-metafile = true
-
-[[files]]
 file = "mods/running-skeleton-mod.pw.toml"
 hash = "d564c942bf985c2ed3236bac6048464e2d093aa44194b54aecdacff0ed06e52e"
 metafile = true

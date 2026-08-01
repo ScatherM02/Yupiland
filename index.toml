@@ -96,11 +96,6 @@ hash = "dfb3791da12798522449390e0bd4199ee47ee682c10e37dffa534713decd9913"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
-metafile = true
-
-[[files]]
 file = "mods/create-food.pw.toml"
 hash = "f29fc01e41186706bb458381b5e1a77551a77736c8dd92150bd9f6f30540d817"
 metafile = true

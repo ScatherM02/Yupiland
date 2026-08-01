@@ -21,6 +21,11 @@ hash = "6ce0e62fd963c7508f6ce085bb14d7119b60486d363c0464e99b1f147266e3d7"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "89a9a1bbc40b708bc7691fc9bd02b605aed5c60104698d4ebd3d9e9e7b9a36bd"
+metafile = true
+
+[[files]]
 file = "mods/better-beds.pw.toml"
 hash = "244f3cd7c2c8d676926bf8b7b7fcbee398caf99e849acdef037e105cafe42f50"
 metafile = true
@@ -528,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "4208b682ff7512da07a0d9b0d786efd8fc4753fab3100d54bf4ceb1feeb956da"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "7cd814db4d5e755d2923b3a4212fe1468468624d102b239a70eafdbe8e0eda98"
 metafile = true
 
 [[files]]

@@ -121,6 +121,11 @@ hash = "d5ef3b8c25e25ecd94336ebd124a524f06216953daaf1150a7ad1bc9d7847651"
 metafile = true
 
 [[files]]
+file = "mods/custom-paintings-mod.pw.toml"
+hash = "4d07148c146f535191313770b1cbd585956cc9019920615dcd3cf81a884b65e5"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "73b57f14646c1b189bc46d07e7dc6537f6eb5b3846862e8c88d6e3ab92e63a73"
 metafile = true

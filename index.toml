@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/alexs-mobs-fabric.pw.toml"
-hash = "30b664ff69f4dd118898c32b759478d52a410f68a2857679d2c7a5257d5504e0"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "d0208ae558e5d98b2ee270f45d00b2fa33b425fba49adfe7ff8d63285a7acc1b"
 metafile = true

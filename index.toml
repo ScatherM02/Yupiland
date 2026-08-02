@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/codxlib.pw.toml"
-hash = "b399d57e878aa39ed1977b320caa96c5068774718782547a9116dc951a7c237c"
+hash = "0efd12d31517e374c4a84a93002cce5d4ec68970c0679cdf35203324f01b6a05"
 metafile = true
 
 [[files]]

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/alexs-mobs-continued.pw.toml"
-hash = "5290ee090df5feeeff642b91966761c5be047ab3513726cf965b38d79769d91c"
+hash = "bbb62e10b29d505d6c3b619c8256e41b119c762049a9878eddd00373c4b00511"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "565cf08493a30dc03305221307837f49cbe8eb113e454c75f5ec9f93ab8d28ee"
+hash = "fdd6a6aefd1786683591980b6bc4c317467e285466c460b5ba78da477aafa3f1"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "8f9451cb5943eedfccb4da627e9862b8fb0b588dea8b49bd9bfd25d168e87b4f"
+hash = "aa5b78d59ed07f2a8d18ea555dc0f10d653ce14e509d32471876309f352c1492"
 metafile = true
 
 [[files]]

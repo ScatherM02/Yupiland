@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/alexs-mobs-continued.pw.toml"
+hash = "5290ee090df5feeeff642b91966761c5be047ab3513726cf965b38d79769d91c"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "d0208ae558e5d98b2ee270f45d00b2fa33b425fba49adfe7ff8d63285a7acc1b"
 metafile = true
@@ -88,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "e00fc109714e08b5ec2f5d74574eab80c9df8090d33e0d2fdeeeeb93df0c09b1"
+metafile = true
+
+[[files]]
+file = "mods/codxlib.pw.toml"
+hash = "b399d57e878aa39ed1977b320caa96c5068774718782547a9116dc951a7c237c"
 metafile = true
 
 [[files]]

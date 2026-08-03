@@ -111,6 +111,11 @@ hash = "dfb3791da12798522449390e0bd4199ee47ee682c10e37dffa534713decd9913"
 metafile = true
 
 [[files]]
+file = "mods/create-food.pw.toml"
+hash = "25bb0a6937eedc69d5c925f68c69037f710aab8710902d96a1329b1ed64e1716"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "754b65581daa4a2d8462d5e62b43555a85a2f24106e8662925a1adefcc9f07cf"
 metafile = true
@@ -171,8 +176,8 @@ hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "b829bfe80d0c9a112c07b71c8b29a3f67a5f7850901b71465153672531f47916"
+file = "mods/farmers-delight.pw.toml"
+hash = "d7139e5db4b5a9b5d80330854bb23ce2cd197009b6d8e3636aa017434066b830"
 metafile = true
 
 [[files]]

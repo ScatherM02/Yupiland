@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/alexs-mobs-continued.pw.toml"
-hash = "bbb62e10b29d505d6c3b619c8256e41b119c762049a9878eddd00373c4b00511"
+file = "mods/alexs-mobs.pw.toml"
+hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
 metafile = true
 
 [[files]]
@@ -23,11 +23,6 @@ metafile = true
 [[files]]
 file = "mods/better-beds.pw.toml"
 hash = "244f3cd7c2c8d676926bf8b7b7fcbee398caf99e849acdef037e105cafe42f50"
-metafile = true
-
-[[files]]
-file = "mods/better-chunk-loading-forge-fabric.pw.toml"
-hash = "26d6e34b2652382611261ed725ec1b56078a23361ff0b67268ecec08667dafc5"
 metafile = true
 
 [[files]]
@@ -68,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "fdd6a6aefd1786683591980b6bc4c317467e285466c460b5ba78da477aafa3f1"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "c7ac7f84731a0ca1fefb3491c3f65c2767afd4be207e094fcb65c4cea99c9549"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0488c9ea9abac1f21fc3b1911f97de3c375083985c89b332136fe9c948c06b8e"
+hash = "5cbcd9395c1788ed7a1356e392a4483a30d903312faffd9795c6dee9afba3fac"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "aa5b78d59ed07f2a8d18ea555dc0f10d653ce14e509d32471876309f352c1492"
+hash = "b829bfe80d0c9a112c07b71c8b29a3f67a5f7850901b71465153672531f47916"
 metafile = true
 
 [[files]]
@@ -246,6 +246,11 @@ hash = "17f893ad645ed3a2f55ccf7519fe4b40f5ff8313b8c929292a92f7de1bca2981"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "bc64bb0f72acc944a8f6fd48e6147c698efd0456d6c63c27847bcaa896addd84"
 metafile = true
@@ -257,12 +262,17 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "fa99a54e17ccfd6fc5af382fa8a7568bafee989aed3f9079f9fe7eaa5c797b10"
+hash = "cc02da8c2d853faf2af9bef86ca25b425723c6bc81550dc5270080cd24aa9a14"
 metafile = true
 
 [[files]]
 file = "mods/jupiter.pw.toml"
 hash = "db49e6d999b3abc56fc1ca1161b49b475a2770ca626ad9af05e59b7c50218de6"
+metafile = true
+
+[[files]]
+file = "mods/kilt.pw.toml"
+hash = "ad7d0fc1201a54316a244006406a4b69db177911d1cc732c7e9491416af07f10"
 metafile = true
 
 [[files]]
@@ -486,8 +496,8 @@ hash = "df1631f545579648c5163801514a422e02075f5a2f5f1382df7de0d6879e68c5"
 metafile = true
 
 [[files]]
-file = "mods/the-twilight-forest-unofficial.pw.toml"
-hash = "6a20c60b4fac62bdb4672d7d4400a6df7f4b5aa855d4c04dd6bc9c374304bafd"
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
 metafile = true
 
 [[files]]

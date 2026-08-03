@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "89a9a1bbc40b708bc7691fc9bd02b605aed5c60104698d4ebd3d9e9e7b9a36bd"
+hash = "2edfbc69152ae894aa1fd40220d544d91c57c71d8bc10687665aeaf9c384553c"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5cbcd9395c1788ed7a1356e392a4483a30d903312faffd9795c6dee9afba3fac"
+hash = "0488c9ea9abac1f21fc3b1911f97de3c375083985c89b332136fe9c948c06b8e"
 metafile = true
 
 [[files]]
@@ -263,11 +263,6 @@ metafile = true
 [[files]]
 file = "mods/jupiter.pw.toml"
 hash = "db49e6d999b3abc56fc1ca1161b49b475a2770ca626ad9af05e59b7c50218de6"
-metafile = true
-
-[[files]]
-file = "mods/kilt.pw.toml"
-hash = "ad7d0fc1201a54316a244006406a4b69db177911d1cc732c7e9491416af07f10"
 metafile = true
 
 [[files]]
@@ -488,6 +483,11 @@ metafile = true
 [[files]]
 file = "mods/textile_backup.pw.toml"
 hash = "df1631f545579648c5163801514a422e02075f5a2f5f1382df7de0d6879e68c5"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest-unofficial.pw.toml"
+hash = "6a20c60b4fac62bdb4672d7d4400a6df7f4b5aa855d4c04dd6bc9c374304bafd"
 metafile = true
 
 [[files]]

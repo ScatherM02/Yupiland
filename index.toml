@@ -496,11 +496,6 @@ hash = "df1631f545579648c5163801514a422e02075f5a2f5f1382df7de0d6879e68c5"
 metafile = true
 
 [[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
-metafile = true
-
-[[files]]
 file = "mods/tiefix.pw.toml"
 hash = "789131f3b99a06026866a655d7c565ea3b3f5556cc70353b7add9acefc3a94f1"
 metafile = true

@@ -26,6 +26,11 @@ hash = "244f3cd7c2c8d676926bf8b7b7fcbee398caf99e849acdef037e105cafe42f50"
 metafile = true
 
 [[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "26d6e34b2652382611261ed725ec1b56078a23361ff0b67268ecec08667dafc5"
+metafile = true
+
+[[files]]
 file = "mods/better-crossbows.pw.toml"
 hash = "c4f029d18ab340f29bf6604a0bb7470396d47e23047873678c10179ca12d45db"
 metafile = true

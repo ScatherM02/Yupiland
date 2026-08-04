@@ -371,11 +371,6 @@ hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
 metafile = true
 
 [[files]]
-file = "mods/ore-harvester.pw.toml"
-hash = "d6308a8a013f6e8c129d01acbb906e7c916738bc58e24bfa53ec1a1c05783ae1"
-metafile = true
-
-[[files]]
 file = "mods/particle-blocker.pw.toml"
 hash = "7735c20248e8e41665673cbc94597718fdbfe015ccffe0423b7bbf225e8ac25b"
 metafile = true
@@ -448,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "058f62395b41a3b18121bcd961320cc8fd8460a34a5ccb4f07552e42ff19df4a"
+metafile = true
+
+[[files]]
+file = "mods/sketches-vein-miner-and-tree-capitator.pw.toml"
+hash = "df95decf2fbbca3eca8481dcec77f2678d1f2be5da29ef5fa867b594c3f81f01"
 metafile = true
 
 [[files]]
@@ -543,11 +543,6 @@ metafile = true
 [[files]]
 file = "mods/translucencyfix.pw.toml"
 hash = "24c9881d779ef02c49eb5a23c8121b2c3fdac94efb7fd923b1dbac716b0a928d"
-metafile = true
-
-[[files]]
-file = "mods/tree-harvester.pw.toml"
-hash = "81616d4497a861461df0ef3bb5dc068ac68b89aeff23c0ca5fcbdf1d3be91bd6"
 metafile = true
 
 [[files]]

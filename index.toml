@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-pickaxe-trims.pw.toml"
-hash = "9749441c2abe7142b04d4146d619e787e855e278ae7c7e97114b97d6267141ca"
+hash = "76c6433309b83624578d330db19f64af7d2120cb5aa87abca51e33616cc75dbe"
 metafile = true
 
 [[files]]
@@ -368,11 +368,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
-metafile = true
-
-[[files]]
-file = "mods/ore-harvester.pw.toml"
-hash = "4512257d48b4685627b649ce88e1641b0b617c6fdc2fd997d359475d4fd46db3"
 metafile = true
 
 [[files]]

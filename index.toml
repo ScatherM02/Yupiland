@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-pickaxe-trims.pw.toml"
-hash = "b1e2a7282dcbe529b8d0da5e3a3c9a5aeccde4488064329c4829061fc2164dc5"
+hash = "9749441c2abe7142b04d4146d619e787e855e278ae7c7e97114b97d6267141ca"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "bba3705506df4b1ed7456b3cc211a3c6b61ab571c95dc11a579e2ff49d1eb40b"
+hash = "0e70a9f05b4b5cafaeed0417a3cfae2dd36bd88cce06a4b688d240d9b90ddfb2"
 metafile = true
 
 [[files]]
@@ -371,6 +371,11 @@ hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
 metafile = true
 
 [[files]]
+file = "mods/ore-harvester.pw.toml"
+hash = "4512257d48b4685627b649ce88e1641b0b617c6fdc2fd997d359475d4fd46db3"
+metafile = true
+
+[[files]]
 file = "mods/particle-blocker.pw.toml"
 hash = "7735c20248e8e41665673cbc94597718fdbfe015ccffe0423b7bbf225e8ac25b"
 metafile = true
@@ -443,11 +448,6 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "058f62395b41a3b18121bcd961320cc8fd8460a34a5ccb4f07552e42ff19df4a"
-metafile = true
-
-[[files]]
-file = "mods/sketches-vein-miner-and-tree-capitator.pw.toml"
-hash = "df95decf2fbbca3eca8481dcec77f2678d1f2be5da29ef5fa867b594c3f81f01"
 metafile = true
 
 [[files]]
@@ -543,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/translucencyfix.pw.toml"
 hash = "24c9881d779ef02c49eb5a23c8121b2c3fdac94efb7fd923b1dbac716b0a928d"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "d6ddde622109dc5072e84fc6493c44950314594864a74495d898bcefbd3f2e8b"
 metafile = true
 
 [[files]]

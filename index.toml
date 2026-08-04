@@ -91,11 +91,6 @@ hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
 metafile = true
 
 [[files]]
-file = "mods/clumps.pw.toml"
-hash = "e00fc109714e08b5ec2f5d74574eab80c9df8090d33e0d2fdeeeeb93df0c09b1"
-metafile = true
-
-[[files]]
 file = "mods/codxlib.pw.toml"
 hash = "0efd12d31517e374c4a84a93002cce5d4ec68970c0679cdf35203324f01b6a05"
 metafile = true

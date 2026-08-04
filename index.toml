@@ -11,6 +11,11 @@ hash = "d0208ae558e5d98b2ee270f45d00b2fa33b425fba49adfe7ff8d63285a7acc1b"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture-delight.pw.toml"
+hash = "da06aae3c2a37a247a474578a2e86ed604a5c282c62c524b4abea6333c0254e8"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
 metafile = true
@@ -116,6 +121,11 @@ hash = "dfb3791da12798522449390e0bd4199ee47ee682c10e37dffa534713decd9913"
 metafile = true
 
 [[files]]
+file = "mods/crate-delight.pw.toml"
+hash = "9561d9de335fc53ca857222beca7831cfaeef97549dddb7da5688a74b7799a70"
+metafile = true
+
+[[files]]
 file = "mods/create-food.pw.toml"
 hash = "25bb0a6937eedc69d5c925f68c69037f710aab8710902d96a1329b1ed64e1716"
 metafile = true
@@ -172,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5cbcd9395c1788ed7a1356e392a4483a30d903312faffd9795c6dee9afba3fac"
+hash = "0488c9ea9abac1f21fc3b1911f97de3c375083985c89b332136fe9c948c06b8e"
 metafile = true
 
 [[files]]
@@ -348,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/more-bows-and-arrows.pw.toml"
 hash = "f808843ccc76275130f6b9320a7b06999ee9ba13efa2d0aa42bfe31dd4ba3dd6"
+metafile = true
+
+[[files]]
+file = "mods/moving-elevators.pw.toml"
+hash = "f1c9828bfd87eae9105bd2eeaa47231a94743664d1054c6f98543aa368a279a5"
 metafile = true
 
 [[files]]

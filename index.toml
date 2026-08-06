@@ -16,6 +16,11 @@ hash = "da06aae3c2a37a247a474578a2e86ed604a5c282c62c524b4abea6333c0254e8"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "04aae524d364de0ec8ac66db6eaff094b9c9b9d69e5de89f11acb2a00ce35261"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
@@ -123,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/create-food.pw.toml"
 hash = "25bb0a6937eedc69d5c925f68c69037f710aab8710902d96a1329b1ed64e1716"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
 metafile = true
 
 [[files]]
@@ -371,11 +381,6 @@ hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
 metafile = true
 
 [[files]]
-file = "mods/particle-blocker.pw.toml"
-hash = "7735c20248e8e41665673cbc94597718fdbfe015ccffe0423b7bbf225e8ac25b"
-metafile = true
-
-[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "4488b4eb899570d939b4df809377818ad59620e8c85db25033e93fdcc1e31918"
 metafile = true
@@ -443,6 +448,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "058f62395b41a3b18121bcd961320cc8fd8460a34a5ccb4f07552e42ff19df4a"
+metafile = true
+
+[[files]]
+file = "mods/shield-expansion.pw.toml"
+hash = "7c870b5b70f3b10e9ad3f1229cfda782357bac6dca59982a1a3f117036386949"
 metafile = true
 
 [[files]]
@@ -548,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
+metafile = true
+
+[[files]]
+file = "mods/vanillin.pw.toml"
+hash = "381c614c47a3e26759920f5673663e85e26b135c4b14919b019184dc193ee112"
 metafile = true
 
 [[files]]

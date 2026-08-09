@@ -3,11 +3,11 @@ filename = "betterpickaxetrims-fabric-1.20.1-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8IUwkNot/versions/h5ImpyEJ/betterpickaxetrims-fabric-1.20.1-1.0.0.jar"
-hash-format = "sha512"
-hash = "e315fb5da4ddb2fc01e696bb989b9be566ccfc71a7cbcfdafbc3dee74acc73d1bb1c4c843d5de87e91dfe5eeb3e702e8417190d36df85526f8e281e3bc0420dc"
+hash-format = "sha1"
+hash = "751a9a4f36acd228c07509972d3704a960c2d499"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "8IUwkNot"
-version = "h5ImpyEJ"
+[update.curseforge]
+file-id = 5854649
+project-id = 1130125

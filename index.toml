@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-pickaxe-trims.pw.toml"
-hash = "76c6433309b83624578d330db19f64af7d2120cb5aa87abca51e33616cc75dbe"
+hash = "b1e2a7282dcbe529b8d0da5e3a3c9a5aeccde4488064329c4829061fc2164dc5"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5cbcd9395c1788ed7a1356e392a4483a30d903312faffd9795c6dee9afba3fac"
+hash = "0488c9ea9abac1f21fc3b1911f97de3c375083985c89b332136fe9c948c06b8e"
 metafile = true
 
 [[files]]
@@ -388,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
+metafile = true
+
+[[files]]
+file = "mods/only-hammers-and-excavators.pw.toml"
+hash = "32d0b5f85775d13133ffd79f734cf47bdaddb97b8726540c82793d95eb455054"
 metafile = true
 
 [[files]]

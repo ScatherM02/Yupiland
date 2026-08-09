@@ -1,13 +1,13 @@
 name = "Create: Food"
-filename = "createfood-forge-1.20.1-2.6.0.jar"
+filename = "create-food-1.20.1-1.1.13-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4HnO3el1/versions/xUypaq2u/createfood-forge-1.20.1-2.6.0.jar"
+url = "https://cdn.modrinth.com/data/4HnO3el1/versions/WvPgVfPl/create-food-1.20.1-1.1.13-fabric.jar"
 hash-format = "sha512"
-hash = "c6aed49b11b16c37fee754100af1fd36187e5e42f01d60747bce7f7d65cad201357fdf7672c2cf19079baf01f42408aa8e76a902c5a86a4a4a38d355bf66b10b"
+hash = "57babd7f2692dd6d2e90e074868ee2d14e27985c754a6756348da436c3fbd4de5381b8f2c4ef3fca12555f826888f168bdd113b3a10aeb71261033fb49ce56d1"
 
 [update]
 [update.modrinth]
 mod-id = "4HnO3el1"
-version = "xUypaq2u"
+version = "WvPgVfPl"

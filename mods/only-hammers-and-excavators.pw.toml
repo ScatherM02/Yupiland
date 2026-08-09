@@ -3,11 +3,11 @@ filename = "OnlyHammersAndExcavators-1.20.1-0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2410884cbbc1a1c6052f1e8e7e6736c754ff68d9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/OwtcCsNI/versions/4AKnG5BJ/OnlyHammersAndExcavators-1.20.1-0.6.jar"
+hash-format = "sha512"
+hash = "7820c78417c89efed3377c4788e0a725d42879000b9032f9e7a03ba8501d65330a3f41768d535f37e2e3cb817c56f3528921e09bf3a497707a2c794d89a41dbf"
 
 [update]
-[update.curseforge]
-file-id = 8014129
-project-id = 939215
+[update.modrinth]
+mod-id = "OwtcCsNI"
+version = "4AKnG5BJ"

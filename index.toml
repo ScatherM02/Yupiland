@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0488c9ea9abac1f21fc3b1911f97de3c375083985c89b332136fe9c948c06b8e"
+hash = "5cbcd9395c1788ed7a1356e392a4483a30d903312faffd9795c6dee9afba3fac"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/only-hammers-and-excavators.pw.toml"
-hash = "32d0b5f85775d13133ffd79f734cf47bdaddb97b8726540c82793d95eb455054"
+hash = "ac8bf476d5fda5a6fb5a3e218c2284490ee0c59478375a51a2109499d78e773c"
 metafile = true
 
 [[files]]

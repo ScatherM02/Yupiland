@@ -1,13 +1,13 @@
 name = "Carry Cats!"
-filename = "Carry Cats 2.3 1.20.1.jar"
+filename = "Carry Cats 2.4 1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pyA57x8S/versions/n7r38aPp/Carry%20Cats%202.3%201.20.1.jar"
+url = "https://cdn.modrinth.com/data/pyA57x8S/versions/MIRrFodn/Carry%20Cats%202.4%201.20.1.jar"
 hash-format = "sha512"
-hash = "fcf21264603d37905d9253e1d1b5f17029b1fdd88e17346684eb367c7a76ae94f01cc88b74333511fd95d4c5118ad43949e35699402acc1b0196519dc647e929"
+hash = "c41973be6ddd449f2ef8b64178d163ddc49ff977796bc7df94f6c192c09c640960e8cb666448486a14c8fb90a8b52231140962cc7a4e631c0a0f1a7db8af8df1"
 
 [update]
 [update.modrinth]
 mod-id = "pyA57x8S"
-version = "n7r38aPp"
+version = "MIRrFodn"
